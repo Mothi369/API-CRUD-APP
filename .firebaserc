@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "api-crud-app-be835",
+    "API-CRUD": "post-api-crud-app",
+    "staging": "api-crud-app-be835"
+  },
+  "targets": {},
+  "etags": {}
+}

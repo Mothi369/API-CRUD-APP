@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "Raju Dev",
+      "email": "rajudev@gmail.com",
+      "phone": "8739573845",
+      "website": "www.johndoe.com",
+      "id": 1
+    },
+    {
+      "name": "Mothi",
+      "email": "mothi@gmail.com",
+      "phone": "8099204028",
+      "website": "www.mothi.com",
+      "id": 2
+    },
+    {
+      "name": "Hello",
+      "email": "hello@gmail.com",
+      "phone": "4982849204",
+      "website": "ww.hello.com",
+      "id": 3
+    },
+    {
+      "name": "Chandu",
+      "email": "chandu@gmail.com",
+      "phone": "9441345678",
+      "website": "www.Chandu.com",
+      "id": 4
+    },
+    {
+      "name": "Royal",
+      "email": "royal@gmail.com",
+      "phone": "8473652894",
+      "website": "www.royal.com",
+      "id": 5
+    },
+    {
+      "name": "new name",
+      "email": "newmail",
+      "phone": "new number",
+      "website": "new websitr",
+      "id": 6
+    }
+  ]
+}
